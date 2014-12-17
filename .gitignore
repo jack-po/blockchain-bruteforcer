@@ -1,0 +1,8 @@
+venv/
+
+*.pyc
+*.pyo
+
+# PyCharm
+*.iml
+.idea/
